@@ -1,1 +1,2 @@
-# Network-Conference-
+# Network-Conferencing-Application
+A Simple Conferencing Application Using the select() Call. create a conferencing application that enables conversation between multiple conferencing clients. Clients connect to the server and all the connected clients receive all the messages transmitted by any of the clients. This group communication is facilitated by the conference server. A client reads the text typed by the user and sends it to the server. It is the responsibility of the server to relay that text to all the other clients. The clients receive the text relayed by the server and display it on the screen.
